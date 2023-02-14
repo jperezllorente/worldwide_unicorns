@@ -12,4 +12,6 @@ In this project I've used Maven Analytics dataset of Globla Unicorns with the ob
 
 To clean, prepare and make a first analysis of the dataset I used Pandas, and to the dislay the final result I've used Tableau to create an interactive dashboard. 
 
-[a link](https://public.tableau.com/views/worlwide_unicorns/worldwide_unicorn?:language=es-ES&:display_count=n&:origin=viz_share_link)
+[Tableau Public](https://public.tableau.com/views/worlwide_unicorns/worldwide_unicorn?:language=es-ES&:display_count=n&:origin=viz_share_link)
+
+![image](https://user-images.githubusercontent.com/70518395/218806291-1daf397c-92d0-4876-a2ad-aaeaff517ba9.png)
